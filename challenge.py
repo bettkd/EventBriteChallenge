@@ -4,6 +4,7 @@ import pprint
 import json
 import re
 
+'''--------------'''
 api_root = 'https://www.eventbriteapi.com'
 version = 'v3'
 token = 'BKKRDKVUVRC5WG4HAVLT'
@@ -27,7 +28,7 @@ for categ in categs:
 		if ct['name'] == categ:
 			#pprint.pprint(ct)
 			pass
-
+'''------------'''
 
 api_root = 'https://www.eventbrite.com'
 url = '%s/%s/event_search?category=%s&app_key=%s'%(api_root, content_type, "Music", app_key)
