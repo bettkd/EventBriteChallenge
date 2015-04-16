@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+class Category(models.Model):
+	event = models.CharField(max_length=140)
+	description = models.TextField()
+	address = models.TextField()
