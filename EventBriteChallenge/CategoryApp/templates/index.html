@@ -60,6 +60,23 @@
     <!-- Page Content -->
     <div class="container">
 
+
+
+        {% with n=10 %}
+        {% for event in object_list %}
+
+            {{  event.title.title|safe }}
+            <h1> hey </br> </h1>
+            {% if forloop.counter0|divisibleby:3 %}
+                ====
+            {% endif %}
+
+        {% endfor %}
+        {% endwith %}
+
+
+
+
         <!-- Page Header -->
         <div class="row">
             <div class="col-lg-12">
