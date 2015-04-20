@@ -4,6 +4,12 @@ import json
 import re
 from django.http import HttpResponse
 from django.template import RequestContext, loader
+from django.template.defaulttags import register
+
+@register.filter
+def get_item(d, k):
+    return d[k]
+
 content_type = 'json'
 app_key = 'EALW47FKIXFBTPNHEM'
 h = httplib2.Http(".cache")
@@ -11,10 +17,17 @@ token = 'BKKRDKVUVRC5WG4HAVLT'
 version = 'v3'
 categ = 'Music'
 
+
 def index(request):
-	event_list  = the_event()
+	titles, capacities, privacies, logos, venues, descriptions  = the_event()
+	count = [i for i in range(0,len(titles))]
 	template = loader.get_template('index.html')
-	context = RequestContext(request, {'event_list': event_list})
+	context = RequestContext(request, {'event_list': [{'titles':titles, 'capacities':capacities, 'privacies':privacies, 'logos':logos, 'venues':venues, 'count':count}]})
+	return HttpResponse(template.render(context))
+
+def description(descriptions, count):
+	template = loader.get_template('descriptions.html')
+	context = RequestContext(request, {'event_list': [{'descriptions':descriptions, 'count':count}]})
 	return HttpResponse(template.render(context))
 
 def category():
@@ -49,26 +62,33 @@ def the_event():
 
 	#pprint.pprint(cont['events'][0]['summary'])
 
-	event = {}
-	event_list = []
+	titles = []
+	capacities = []
+	privacies = []
+	logos = []
+	venues = []
+	descriptions = []
 	for i in range(1,11):
 		title  = cont['events'][i]['event']['title']
 		capacity = cont['events'][i]['event']['capacity']
 		description = cont['events'][i]['event']['description']
 		privacy = cont['events'][i]['event']['privacy']
-		logo =cont['events'][i]['event'].get('logo_ssl')
+		logo = cont['events'][i]['event'].get('logo')
+		address1 = cont['events'][i]['event']['venue']['address']
+		city = cont['events'][i]['event']['venue']['city']
+		region = cont['events'][i]['event']['venue']['region']
+		country = cont['events'][i]['event']['venue']['country']
+		venue = ', '.join([address1, city, region, country])
 
-		event_list.append(title)
-		event_list.append(capacity)
-		event_list.append(privacy)
-		event_list.append(logo)
-		'''
-		#event_list.append(description) #invoked to see more details
-		'''
-		print "=============="
+		titles.append(title)
+		capacities.append(capacity)
+		privacies.append(privacy)
+		logos.append(logo)
+		venues.append(venue)
+		descriptions.append(description)
 	#	pprint.pprint(c['events'])
 
-	return event_list
+	return titles, capacities, privacies, logos, venues, descriptions
 
 	#return [1,3,4,5,3]
 

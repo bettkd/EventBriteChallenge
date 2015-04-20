@@ -60,15 +60,34 @@
     <!-- Page Content -->
     <div class="container">
 
-
         {% for event in event_list %}
 
+
+            {% for i  in event.count %}
+
             {% if forloop.counter0|divisibleby:3 %}
-                <hr></br>
+                </div>
+            {% endif %}
+            
+            {% if forloop.counter|divisibleby:3 %}
+                <div class="row">
             {% endif %}
 
-            {{  event|safe }} </br>
-             ============= </br>
+                <div class="col-md-4 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="{{ event.logos|get_item:i }}" alt="Image">
+                </a>
+                <h3>
+                    <a href="#">{{ event.titles|get_item:i }}</a>
+                </h3>
+                <p> <b> Capacity: </b> {{ event.capacities|get_item:i }} <b> Privacy: </b> {{ event.privacies|get_item:i }} </br>
+                    <b> Venue: </b> {{ event.venues|get_item:i }} </br>
+                    <b> <a class = "description_{{i}}" >View details »> <a></b></p>
+            </div>
+               
+            {% endfor %}
+
+
         {% endfor %}
 
 
@@ -225,6 +244,14 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/static/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() { 
+            jQuery(".description").click(function() {
+                window.open('description.html', '_blank')
+            });
+        });
+    </script>
 
 </body>
 
