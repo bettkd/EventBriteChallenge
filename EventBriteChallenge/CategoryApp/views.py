@@ -16,18 +16,19 @@ h = httplib2.Http(".cache")
 token = 'BKKRDKVUVRC5WG4HAVLT'
 version = 'v3'
 categ = 'Music'
-
+descriptions = []
 
 def index(request):
-	titles, capacities, privacies, logos, venues, descriptions  = the_event()
+	titles, capacities, privacies, logos, venues  = the_event()
 	count = [i for i in range(0,len(titles))]
 	template = loader.get_template('index.html')
 	context = RequestContext(request, {'event_list': [{'titles':titles, 'capacities':capacities, 'privacies':privacies, 'logos':logos, 'venues':venues, 'count':count}]})
 	return HttpResponse(template.render(context))
 
-def description(descriptions, count):
-	template = loader.get_template('descriptions.html')
-	context = RequestContext(request, {'event_list': [{'descriptions':descriptions, 'count':count}]})
+def description(request):
+	template = loader.get_template('description.html')
+	context = RequestContext(request, {'descriptions':descriptions})
+	print descriptions[0]
 	return HttpResponse(template.render(context))
 
 def category():
@@ -67,7 +68,6 @@ def the_event():
 	privacies = []
 	logos = []
 	venues = []
-	descriptions = []
 	for i in range(1,11):
 		title  = cont['events'][i]['event']['title']
 		capacity = cont['events'][i]['event']['capacity']
@@ -88,8 +88,5 @@ def the_event():
 		descriptions.append(description)
 	#	pprint.pprint(c['events'])
 
-	return titles, capacities, privacies, logos, venues, descriptions
+	return titles, capacities, privacies, logos, venues
 
-	#return [1,3,4,5,3]
-
-#category()
