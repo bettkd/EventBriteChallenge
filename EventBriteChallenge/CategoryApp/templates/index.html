@@ -61,18 +61,15 @@
     <div class="container">
 
 
+        {% for event in event_list %}
 
-        {% with n=10 %}
-        {% for event in object_list %}
-
-            {{  event.title.title|safe }}
-            <h1> hey </br> </h1>
             {% if forloop.counter0|divisibleby:3 %}
-                ====
+                <hr></br>
             {% endif %}
 
+            {{  event|safe }} </br>
+             ============= </br>
         {% endfor %}
-        {% endwith %}
 
 
 
@@ -199,12 +196,6 @@
                     </li>
                     <li>
                         <a href="#">3</a>
-                    </li>
-                    <li>
-                        <a href="#">4</a>
-                    </li>
-                    <li>
-                        <a href="#">5</a>
                     </li>
                     <li>
                         <a href="#">&raquo;</a>

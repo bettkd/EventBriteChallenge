@@ -1,0 +1,1042 @@
+{
+    "events": [
+        {
+            "summary": {
+                "total_items": 205129, 
+                "first_event": 15050143384, 
+                "num_showing": 10, 
+                "filters": {
+                    "category": "Music"
+                }, 
+                "last_event": 16255431433
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "005580", 
+                "locale": "en_US", 
+                "num_attendee_rows": 2.0, 
+                "box_background_color": "FFFFFF", 
+                "timezone": "America/New_York", 
+                "box_border_color": "D5D5D3", 
+                "logo": "http://cdn.evbuc.com/images/11982845/5546885289/1/logo.jpg", 
+                "organizer": {
+                    "url": "http://baptisthealth.eventbrite.com", 
+                    "id": 680056303, 
+                    "description": "Baptist Health is the only nonprofit, mission-driven, community-owned healthcare system in North Florida. We are here to serve the communitys needs with the areas most comprehensive healthcare network, providing a full spectrum of high-quality clinical services across the continuum of care to support your familys health and wellbeing at every stage of life. Noted by our community for having the best doctors, best nurses and best overall quality, our circle of care is unlike any other in our region.", 
+                    "name": "Baptist Health", 
+                    "long_description": "Baptist Health is the only nonprofit, mission-driven, community-owned healthcare system in North Florida. We are here to serve the communitys needs with the areas most comprehensive healthcare network, providing a full spectrum of high-quality clinical services across the continuum of care to support your familys health and wellbeing at every stage of life. Noted by our community for having the best doctors, best nurses and best overall quality, our circle of care is unlike any other in our region."
+                }, 
+                "background_color": "FFFFFF", 
+                "id": 15050143384, 
+                "category": "", 
+                "box_header_background_color": "EFEFEF", 
+                "capacity": 0, 
+                "title": "Weight Loss and Bariatric Surgery", 
+                "link_color": "EE6600", 
+                "status": "Live", 
+                "description": "<DIV ID=\"bariatric\"><IMG CLASS=\"alignL marginB10\" TITLE=\"Baptist Center for Bariatrics Seminar\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/5508327/baptistcenterforbariatrics.jpg\" ALT=\"Baptist Center for Bariatrics Banner Image\">\r\n<P CLASS=\"hl1\">INTRODUCTION:</P>\r\n<P>Baptist Center for Bariatric Surgery provides an effective long-term weight loss solution with a proven record of favorable outcomes. Attending our free informational program is the first step to exploring ways to improve your health and change your life. Our program covers the following topics to help you decide if weight loss surgery is right for you:</P>\r\n<UL CLASS=\"orange\">\r\n<LI>How much can I lose and how weight loss can help improve weight-related conditions</LI>\r\n<LI>Do I qualify for surgery and the patient evaluation process</LI>\r\n<LI>Learn about the different types of weight loss surgery and the benefits and risks for each</LI>\r\n<LI>How surgery can change your life and what to expect before during and after the surgery</LI>\r\n<LI>How to obtain insurance approval and how to navigate the process</LI>\r\n<LI>Meet the surgeons the bariatric coordinator and the dieticians</LI>\r\n</UL>\r\n<P CLASS=\"hl1\">MEET THE TEAM:</P>\r\n<DIV CLASS=\"feature\">\r\n<DIV CLASS=\"speaker\"><IMG CLASS=\"alignL\" TITLE=\"Craig Morgenthal MD FACS\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/7822819/craigmorgenthalmdfacsm1.jpg\" ALT=\"Craig Morgenthal MD FACS\">\r\n<DIV CLASS=\"content\">\r\n<P><A CLASS=\"hl2\" TITLE=\"Click to learn more about Craig Morgenthal MD FACS in a new window\" HREF=\"http://www.baptistjax.com/doctors/general-surgeon/dr-craig-morgenthal-md\" TARGET=\"_blank\" REL=\"nofollow\">Craig Morgenthal MD FACS</A></P>\r\n<UL CLASS=\"orange\">\r\n<LI>Board Certified General Surgeon</LI>\r\n<LI>Fellow of the American College of Surgeons</LI>\r\n<LI>Specializes in Minimally Invasive Surgery</LI>\r\n</UL>\r\n</DIV>\r\n</DIV>\r\n<DIV CLASS=\"speaker\"><IMG CLASS=\"alignL\" TITLE=\"Steven Hodgett MD FACS\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/7822819/stevenhodgettmdm1.jpg\" ALT=\"Steven Hodgett MD FACS\">\r\n<DIV CLASS=\"content\">\r\n<P><A CLASS=\"hl2\" TITLE=\"Click to learn more about Steven Hodgett MD FACS in a new window\" HREF=\"http://www.baptistjax.com/doctors/general-surgeon/dr-steven-hodgett-md\" TARGET=\"_blank\" REL=\"nofollow\">Steven Hodgett MD FACS</A></P>\r\n<UL CLASS=\"orange\">\r\n<LI>Board Certified General Surgeon</LI>\r\n<LI>Fellow of the American College of Surgeons</LI>\r\n<LI>Specializes in Minimally Invasive Surgery</LI>\r\n</UL>\r\n</DIV>\r\n</DIV>\r\n<P>In addition to the surgeons you will have access to specialists and services from the Diabetes and Nutrition Department the Sleep Disorders Center Cardiology Pulmonology Gastroenterology Behavioral Health and Rehabilitation. Each of these departments coordinates with our weight loss program to ensure that your needs are met before and after surgery.</P>\r\n</DIV>\r\n<P CLASS=\"hl3\">CLASS FORMAT:</P>\r\n<P>Presentation then Question and Answers</P>\r\n<P><STRONG>60 to 90 minutes </STRONG></P>\r\n<P CLASS=\"hl3\">CLASS REGISTRATION:</P>\r\n<P><STRONG>Seating is limited.</STRONG> Registration is required to reserve your spot. Friends and family are welcome to attend.</P>\r\n<P CLASS=\"hl3\">CLASS LOCATION:</P>\r\n<P>Baptist Medical Center South Azalea Conference Room</P>\r\n<P CLASS=\"hl3\">WHAT TO BRING:</P>\r\n<P>Please bring your insurance information and identification card</P>\r\n<P CLASS=\"hl3\">OTHER DATES AND LOCATIONS:</P>\r\n<DIV CLASS=\"otherClasses\"><IMG CLASS=\"alignL\" SRC=\"http://www.baptistjax.com/assets/images/global/sidebar-calendar-icon.png\" ALT=\"\">\r\n<P>Visit the Baptist Health website for additional dates and locations: <BR><A TITLE=\"Click to view other Baptist Health classes seminars and events\" HREF=\"http://www.baptistjax.com/patient-info/health-and-wellness-classes\" TARGET=\"_blank\" REL=\"nofollow\">Baptist Health Classes</A></P>\r\n</DIV>\r\n<BR CLEAR=\"all\">\r\n<P CLASS=\"hl3\">CLASS CANCELLATION POLICY:</P>\r\n<P>To accommodate others who may wish to attend this class we ask that all cancellations be submitted at least 72 hours prior to the start of the class. Please submit your cancellation instructions here via <A TITLE=\"Contact the Host\" HREF=\"http://www.eventbrite.com/contact-organizer?eid=5409925232\">Contact the Host</A>.</P>\r\n<P CLASS=\"hl3\">PRIVACY DISCLOSURE:</P>\r\n<P>Baptist Health has engaged EventBrite an unaffiliated company to provide a convenient event scheduling and processing service for our patients. Any information that you enter into EventBrite is governed by the <A TITLE=\"Eventbrite Privacy Policy\" HREF=\"http://www.eventbrite.com/privacypolicy/\" TARGET=\"_blank\">EventBrite Privacy Policy</A> and the <A TITLE=\"Eventbrite Terms of Service Agreement\" HREF=\"http://www.eventbrite.com/tos/\" TARGET=\"_blank\">EventBrite Terms of Service Agreement</A>.</P>\r\n<DIV ID=\"BHparams\" STYLE=\"display: none;\">evtDept:minimally-invasive-surgery%Minimally Invasive Surgery|evtType:seminar%Seminar|evtLoc:classroom%Classroom|evtTopic:weight-loss-and-bariatric-surgery-seminar%Weight Loss and Bariatric Surgery Seminar|evtPhysLoc:baptist-medical-center-south%Baptist Medical Center South</DIV>\r\n</DIV>", 
+                "end_date": "2015-07-02 19:30:00", 
+                "tags": "weight loss surgery, bariatric surgery, weight loss, diet, lose weight", 
+                "timezone_offset": "GMT-0400", 
+                "text_color": "005580", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-07-02 18:00:00", 
+                            "min": 1, 
+                            "max": 1, 
+                            "price": "0.00", 
+                            "id": 32328556, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "0.00", 
+                            "type": 0, 
+                            "start_date": "2014-12-22 12:00:00", 
+                            "include_fee": "true", 
+                            "name": "Weight Loss and Bariatric Surgery"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2014-12-23 12:18:20", 
+                "url": "http://www.eventbrite.com/e/weight-loss-and-bariatric-surgery-tickets-15050143384?aff=SRCH", 
+                "box_text_color": "000000", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Jacksonville", 
+                    "name": "Baptist Medical Center South", 
+                    "country": "United States", 
+                    "region": "FL", 
+                    "longitude": -81.570611, 
+                    "postal_code": "32258", 
+                    "address_2": "Azalea, Begonia & Camelia Conference Rooms", 
+                    "address": "14550 Old Saint Augustine Road", 
+                    "latitude": 30.153216, 
+                    "country_code": "US", 
+                    "id": 9416450, 
+                    "Lat-Long": "30.153216 / -81.570611"
+                }, 
+                "modified": "2015-03-09 07:00:37", 
+                "start_date": "2015-07-02 18:00:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/11982845/5546885289/1/logo.jpg", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "404040", 
+                "locale": "en_GB", 
+                "num_attendee_rows": 14.0, 
+                "box_background_color": "ffffff", 
+                "box_border_color": "dedede", 
+                "timezone": "Europe/London", 
+                "organizer": {
+                    "url": "http://glyndeplace.eventbrite.co.uk", 
+                    "id": 2878927405, 
+                    "description": "An Elizabethan country house in the heart of the South Downs. Sitting on the side of Mount Caburn, overlooking it 110 acres of park and woodland, it is the ideal place for festivals, corporate events and private functions.\r\n \r\nThe house is open to the public in the afternoons on the following days (please confirm times and dates online):\r\n  May & June - Wednesdays, Thursdays, Sundays & Bank Holiday Mondays  August Bank Holiday - Sunday & Monday", 
+                    "name": "Glynde Place", 
+                    "long_description": "An Elizabethan country house in the heart of the South Downs. Sitting on the side of Mount Caburn, overlooking it 110 acres of park and woodland, it is the ideal place for festivals, corporate events and private functions.\r\n \r\nThe house is open to the public in the afternoons on the following days (please confirm times and dates online):\r\n  May & June - Wednesdays, Thursdays, Sundays & Bank Holiday Mondays  August Bank Holiday - Sunday & Monday"
+                }, 
+                "background_color": "f7f7f7", 
+                "id": 15054681959, 
+                "category": "", 
+                "box_header_background_color": "fafafa", 
+                "capacity": 105, 
+                "title": "Glynde Place Concert Series: Tenor, Viola & Piano Trio", 
+                "link_color": "0f90ba", 
+                "status": "Live", 
+                "description": "<H1>An Evening Recital</H1>\r\n<P CLASS=\"performer\"><STRONG>ANNA TILBROOK</STRONG>\u00a0(piano)</P>\r\n<P CLASS=\"review\">\"Anna Tilbrook is an outstanding accompanist, discreet when necessary but also able to make the simplest phrase or chordal progression tell without a touch of exaggeration\"</P>\r\n<P CLASS=\"reviewAuthor\">BBC Music Magazine</P>\r\n<P CLASS=\"performer\"><STRONG>BENJAMIN HULETT</STRONG>\u00a0(tenor)</P>\r\n<P CLASS=\"review\">\"... the beauty of Benjamin Hulett\u2019s singing takes ones breath away\"</P>\r\n<P CLASS=\"reviewAuthor\">Michael Church \u2013 The Independent</P>\r\n<P CLASS=\"review\">\"He sang an interpretation as touching as it was intelligent\"</P>\r\n<P CLASS=\"reviewAuthor\">Elisabeth Richter \u2013 NDR Kultur</P>\r\n<P CLASS=\"performer\"><STRONG>PHILLIP DUKES</STRONG>\u00a0(viola)</P>\r\n<P CLASS=\"review\">\"Great Britain\u2019s most outstanding solo viola player\"</P>\r\n<P CLASS=\"reviewAuthor\">The Times</P>\r\n<P CLASS=\"review\">\"I am particularly impressed with the viola playing of Phillip Dukes, who delivers a wonderfully sensitive account of Schumann\u2019s Marchenbilde\"</P>\r\n<P CLASS=\"reviewAuthor\">Classic CD</P>\r\n<P STYLE=\"text-align: center;\">-- \u2726 --</P>\r\n<P>In 2014 the Glynde Place Concert Series was started to showcase the rising talent of musicians from the BBC New Generation Artists scheme. \u00a0We were very privileged to have Sean Shibe and Kitty Whately\u00a0 playing in the Long Hall to a rapt audience over two evenings. Following the success of these concerts we are extending the series to three evenings; 23 May, 20 June and 18 July. In addition we are also opening the gates earlier, so those who would like to arrive before the doors open, and enjoy a picnic, are more than welcome. Please come, and enjoy an evening of wonderful music here at Glynde Place.</P>\r\n<P STYLE=\"text-align: center;\">-- \u2726 --</P>\r\n<P>The first concert of the series brings together <A TITLE=\"Biography.\" HREF=\"http://www.annatilbrook.co.uk/biog/\" TARGET=\"_blank\" REL=\"nofollow\">Anna Tilbrook</A>, <A TITLE=\"Biography\" HREF=\"http://www.benjaminhulett.com/bh_biog.php\" TARGET=\"_blank\" REL=\"nofollow\">Benjamin Hulett</A>\u00a0and\u00a0<A STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\" TITLE=\"Biography.\" HREF=\"http://www.philipdukes.co.uk/bio.html\" TARGET=\"_blank\" REL=\"nofollow\">Phillip Dukes</A>\u00a0who have created this special programme to launch the 2015 concert series.</P>\r\n<P><IMG STYLE=\"vertical-align: middle;\" TITLE=\"Anna TilBook, Benjamin Hulett and Phillip Dukes\" SRC=\"https://cdn.evbuc.com/eventlogos/44888079/triobanner.png\" ALT=\"Anna TilBook, Benjamin Hulett and Phillip Dukes montage\"></P>\r\n<H2>Programme</H2>\r\n<UL>\r\n<LI><STRONG>Schubert:</STRONG></LI>\r\n<UL>\r\n<LI>Der Rattenfaenger, D255</LI>\r\n<LI>Trost in Tranen, D120</LI>\r\n<LI>Sehnsucht, D123</LI>\r\n<LI>Wanderers Nachtlied, D224</LI>\r\n<LI>Am Flusse, D766</LI>\r\n<LI>\u00a0</LI>\r\n<LI>Arpeggione Sonata</LI>\r\n</UL>\r\n<LI><EM>Interval</EM></LI>\r\n<LI><STRONG>Ivor Gurney:</STRONG></LI>\r\n<UL>\r\n<LI>An Epitaph</LI>\r\n<LI>Black Stitchel</LI>\r\n<LI>In Flanders</LI>\r\n<LI>Down by the Salley Gardens</LI>\r\n<LI>Severn Meadows</LI>\r\n</UL>\r\n<LI><STRONG>Britten:</STRONG> Lachrymae</LI>\r\n<LI><STRONG>Ralph Vaughan Williams:</STRONG> Four Hymns</LI>\r\n</UL>\r\n<H2>Timings</H2>\r\n<P>The doors to the house will not open until 6.30pm but you are welcome to come and enjoy the garden and grounds from 5pm.</P>\r\n<P>The concert will start at 7pm with a 20 minute interval.\u00a0<SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.799999237060547px;\">\u00a0Doors closing at 9.30pm.</SPAN></P>\r\n<H2>Picnics</H2>\r\n<P>If you are wondering what to do before the concert you could come and have a picnic in the grounds. The gates will be open from 5pm, for ticket holders only, to come and enjoy the garden and views. Please note that there is no wet weather cover, other than trees.</P>\r\n<P>Please take your rubbish away with you.</P>\r\n<P STYLE=\"text-align: center; font-style: italic; font-size: smaller;\">Glynde Place reserves the right to change the programme. Tickets are non-refundable unless Glynde Place cancels or changes the date of the event.</P>\r\n<HR>\r\n<H3>FAQs</H3>\r\n<H4>What are my transport/parking options getting to the event?</H4>\r\n<P>You can travel to Glynde via train on the <A HREF=\"http://www.southernrailway.com\" REL=\"nofollow\">Southern Railway</A> Eastbourne &amp; Lewes to London &amp; Brighton service. You will need to change at Lewes or Brighton if coming from London. Glynde Place is a ten minute walk through the village (passing the playground), and up to the hill by the church.</P>\r\n<P>If coming by car please follow parking signs once at the gates (there is a large blue sign saying Glynde Place).</P>\r\n<P>You can also walk over Mount Caburn from Lewes. \u00a0It will take about 1.5 hours and bring you down by the main entrance.</P>\r\n<H4>Where can I contact the organiser with any questions?</H4>\r\n<P>Call the office on 01273 858224 or info@glynde.co.uk.</P>\r\n<H4>Is my registration/ticket transferrable?</H4>\r\n<P>All tickets apart from Season Tickets may transferred but please notify the office (see above).</P>\r\n<H4>Do you have wheel chair access?</H4>\r\n<P>Glynde Place is built into the side of a hill, this means that main entrance to the house is up four steps and is not ramped. \u00a0We are sorry about this. If you have a question about access, please contact us.</P>\r\n<H4>Can I bring my dog?</H4>\r\n<P>Assistance dogs are welcome but otherwise dogs are not allowed into the grounds for this event.</P>", 
+                "end_date": "2015-05-23 21:30:00", 
+                "tags": "", 
+                "timezone_offset": "GMT+0100", 
+                "text_color": "404040", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "Save \u00a310 and buy a season ticket for all three 2015 concerts.  Not only do you get a saving but you can also reserve a seat.  Seats will be allocated by row, on a first come first served basis,  starting from the front.  We will try and group ticket holders together if they buy together.  Ticket includes a glass of sparkling wine per event.", 
+                            "end_date": "2015-05-23 17:00:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "69.55", 
+                            "id": 32336684, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "65.00", 
+                            "type": 0, 
+                            "start_date": "2015-01-20 13:00:00", 
+                            "include_fee": "false", 
+                            "name": "Season Ticket"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Includes a glass of sparkling wine.  Seats are  unreserved.", 
+                            "end_date": "2015-05-23 17:00:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "27.15", 
+                            "id": 32336685, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "25.00", 
+                            "type": 0, 
+                            "start_date": "2015-01-20 13:30:00", 
+                            "include_fee": "false", 
+                            "name": "General Admission"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Group ticket for 6 or more people.  Seats are unreserved and therefore we can not guarantee your group will be able to sit together.  Includes a glass of sparkling wine.", 
+                            "end_date": "2015-05-23 17:00:00", 
+                            "min": 6, 
+                            "max": 12, 
+                            "price": "24.50", 
+                            "id": 32336686, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "22.50", 
+                            "type": 0, 
+                            "start_date": "2015-01-20 13:30:00", 
+                            "include_fee": "false", 
+                            "name": "Group Ticket"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "16 and under ticket.  Unreserved seating.", 
+                            "end_date": "2015-05-23 17:00:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "16.55", 
+                            "id": 32336687, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "15.00", 
+                            "type": 0, 
+                            "start_date": "2015-01-20 13:30:00", 
+                            "include_fee": "false", 
+                            "name": "Child"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2014-12-24 03:40:22", 
+                "url": "http://www.eventbrite.com/e/glynde-place-concert-series-tenor-viola-piano-trio-tickets-15054681959?aff=SRCH", 
+                "box_text_color": "666666", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Lewes", 
+                    "name": "Glynde Place", 
+                    "country": "United Kingdom", 
+                    "region": "East Sussex", 
+                    "longitude": 0.067941, 
+                    "postal_code": "BN8 6SX", 
+                    "address_2": "", 
+                    "address": "", 
+                    "latitude": 50.864996, 
+                    "country_code": "GB", 
+                    "id": 9392083, 
+                    "Lat-Long": "50.864996 / 0.067941"
+                }, 
+                "modified": "2015-04-06 15:40:40", 
+                "start_date": "2015-05-23 19:00:00", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "005580", 
+                "locale": "en_US", 
+                "num_attendee_rows": 4.0, 
+                "box_background_color": "DAEDF5", 
+                "timezone": "America/New_York", 
+                "box_border_color": "6DB6DA", 
+                "logo": "http://cdn.evbuc.com/images/12106795/24675738463/2/logo.jpg", 
+                "organizer": {
+                    "url": "http://ocagriculture.eventbrite.com", 
+                    "id": 2487539736, 
+                    "description": "", 
+                    "name": "UF/IFAS Extension in Osceola County", 
+                    "long_description": "UF/IFAS Extension in Osceola County is here to offer you education utilizing research-based information. \r\n Contact us at 321-697-3000."
+                }, 
+                "background_color": "ACACA7", 
+                "id": 15307189215, 
+                "category": "", 
+                "box_header_background_color": "B6DBEC", 
+                "capacity": 0, 
+                "title": "Intro to Beekeeping - Wednesday, May 6, 2015 - Deadline to register is May 4th.", 
+                "link_color": "EE6600", 
+                "status": "Live", 
+                "description": "<P STYLE=\"text-align: left;\"><SPAN STYLE=\"color: #000000; font-size: large;\"><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">A</SPAN><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">n overview of how to acquire your own bee colony: tools and supplies, handling bees, colony management throughout the year, harvesting honey and more. </SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #000000; font-size: large;\"><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">Includes </SPAN><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">\u201cBee-sentials</SPAN><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">\u201d </SPAN><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">beekeeping hand</SPAN><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">book. </SPAN></SPAN></P>\r\n<P STYLE=\"text-align: left;\"><SPAN STYLE=\"color: #000000; font-size: large;\"><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\">It is recommended that participants attend a \u201cBeekeeping: is it for me?\u201d presentation prior to this seminar.</SPAN></SPAN></P>\r\n<P STYLE=\"text-align: left;\">\u00a0</P>\r\n<P STYLE=\"text-align: left;\"><SPAN STYLE=\"color: #000000; font-size: large;\"><SPAN STYLE=\"font-family: 'Times New Roman','serif'; mso-ansi-language: EN;\" LANG=\"EN\"><IMG STYLE=\"margin-right: auto; margin-left: auto; display: block;\" SRC=\"https://cdn.evbuc.com/eventlogos/24504209/beesentials.jpg\" ALT=\"\" WIDTH=\"300\" HEIGHT=\"451\"></SPAN></SPAN></P>\r\n<P STYLE=\"vertical-align: top;\"><SPAN STYLE=\"font-family: 'Helvetica','sans-serif'; color: black; font-size: 13pt;\">\u00a0\u00a0</SPAN></P>\r\n<P STYLE=\"text-align: center;\" ALIGN=\"center\"><SPAN STYLE=\"font-family: 'Arial','sans-serif'; color: black; font-size: 13pt;\">Questions?\u00a0 Call 231-697-3000.</SPAN><SPAN STYLE=\"font-family: 'Helvetica','sans-serif'; color: black; font-size: 9pt;\">\u00a0\u00a0</SPAN></P>\r\n<P STYLE=\"text-align: center; vertical-align: top;\" ALIGN=\"center\"><SPAN STYLE=\"font-family: 'Arial','sans-serif'; color: blue; font-size: 14pt;\">Cash and checks also accepted at\u00a0UF/IFAS Extension in Osceola County\u00a0by the deadline date.\u00a0 Pay in person or by mail.</SPAN>\u00a0</P>\r\n<P STYLE=\"text-align: center; vertical-align: top;\" ALIGN=\"center\"><SPAN STYLE=\"font-family: 'Helvetica','sans-serif'; color: blue; font-size: 14pt;\">All ticket sales are final.</SPAN></P>", 
+                "end_date": "2015-05-06 20:30:00", 
+                "tags": "Vegetable  gardening florida ", 
+                "timezone_offset": "GMT-0400", 
+                "text_color": "FFFFFF", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "Deadline to register is May 4th.", 
+                            "end_date": "2015-05-04 23:59:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "30.00", 
+                            "id": 32800406, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "30.00", 
+                            "type": 0, 
+                            "start_date": "2014-08-21 12:00:00", 
+                            "include_fee": "true", 
+                            "name": "Individual - Intro to Bee - Wednesday, May 6,  6:00 pm"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "2 people will share class materials (book/handouts, etc.)", 
+                            "end_date": "2015-05-04 23:59:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "40.00", 
+                            "id": 32800407, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "40.00", 
+                            "type": 0, 
+                            "start_date": "2014-08-21 12:00:00", 
+                            "include_fee": "true", 
+                            "name": "Couple - Intro to Bee - Wednesday, May 6, 6:00 pm"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-01-13 11:16:28", 
+                "url": "http://www.eventbrite.com/e/intro-to-beekeeping-wednesday-may-6-2015-deadline-to-register-is-may-4th-registration-15307189215?aff=SRCH", 
+                "box_text_color": "5A5A50", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Kissimmee", 
+                    "name": "UF/IFAS Extension in Osceola County", 
+                    "country": "United States", 
+                    "region": "FL", 
+                    "longitude": -81.366848, 
+                    "postal_code": "34744", 
+                    "address_2": "", 
+                    "address": "1921 Kissimmee Valley Lane", 
+                    "latitude": 28.296682, 
+                    "country_code": "US", 
+                    "id": 4818781, 
+                    "Lat-Long": "28.296682 / -81.366848"
+                }, 
+                "modified": "2015-04-07 08:03:50", 
+                "start_date": "2015-05-06 18:00:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12106795/24675738463/2/logo.jpg", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "404040", 
+                "locale": "en_GB", 
+                "num_attendee_rows": 1.0, 
+                "box_background_color": "ffffff", 
+                "timezone": "America/New_York", 
+                "box_border_color": "dedede", 
+                "logo": "http://cdn.evbuc.com/images/12420423/135855308524/1/logo.png", 
+                "organizer": {
+                    "url": "http://www.eventbrite.co.uk/o/kate-dunstone-7950107908", 
+                    "id": 7950107908, 
+                    "description": "I am a graphic designer and illustrator, and my work is all about collaboration and participation.\r\nRecently completing an MA in Design and Art Direction at Manchester School of Art, Ive developed my practice as Social Making, a collaborative design process focused on sparking interaction between collaborators.", 
+                    "name": "Kate Dunstone", 
+                    "long_description": ""
+                }, 
+                "background_color": "f7f7f7", 
+                "id": 15803308120, 
+                "category": "", 
+                "box_header_background_color": "fafafa", 
+                "capacity": 0, 
+                "title": "coLAB : a space to work together", 
+                "link_color": "0f90ba", 
+                "status": "Live", 
+                "description": "<H2 STYLE=\"margin: 20px 0px; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; clear: both; color: #404040;\">From collectives, collaborations and creative partnerships to online, open-source and engagement, opportunities to work together abound. coLAB is a space to explore these\u00a0opportunities, how we navigate collaborations, and the\u00a0future of working together in the digital age.</H2>\r\n<P STYLE=\"margin: 0px 0px 1.5em; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 15px; color: #404040; line-height: 22px;\">The schedule for the day is based around the\u00a0<A STYLE=\"margin: 0px; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-style: inherit; font-family: inherit; color: #26ade4;\" HREF=\"http://www.unconference.net/\" REL=\"nofollow\">unconference</A>\u00a0model, with the agenda set by participants as it happens, and highly interactive, with activities scheduled throughout the day to encourage discussion between participants.</P>\r\n<P STYLE=\"margin: 0px 0px 1.5em; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 15px; color: #404040; line-height: 22px;\">Designers\u00a0<A STYLE=\"margin: 0px; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-style: inherit; font-family: inherit; color: #26ade4;\" HREF=\"http://www.conwayandyoung.com/\" REL=\"nofollow\">Conway and Young</A>, who work in collaboration with each other and wider communities, will speak about the place of working together in their<BR>practice, and how this challenges and enriches their work, before participants are<BR>invited to join the conversation and discuss their own experience of collaborative work.</P>\r\n<P STYLE=\"margin: 0px 0px 1.5em; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 15px; color: #404040; line-height: 22px;\">In keeping with the communal focus of the day, lunch will be a \u2018pot luck\u2019,<BR>participants are invited to contribute to the meal by bringing a dish to share. This could be something homemade, or bought, sweet, or savoury, the charm is in the mix!</P>\r\n<P STYLE=\"margin: 0px 0px 1.5em; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 15px; color: #404040; line-height: 22px;\">For the afternoon open space sessions participants are invited to lead their own 40 or 20 minute sessions. This could be a discussion group around a subject you feel needs some attention, a workshop you want to try out, or an opportunity to share a project you\u2019ve been working on.</P>\r\n<P STYLE=\"margin: 0px 0px 1.5em; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 15px; color: #404040; line-height: 22px;\">If you have a session you\u2019d like to lead just come along on the day and add it to the agenda. And if not, just come ready to contribute to the conversation!\u00a0For more information, click over to the schedule\u2026</P>\r\n<P STYLE=\"margin: 0px 0px 1.5em; padding: 0px; outline: 0px; border: 0px; vertical-align: baseline; font-size: 15px; color: #404040; line-height: 22px;\"><IMG SRC=\"http://www.artscouncil.org.uk/media/uploads/lottery__black.jpg\" ALT=\"arts council grants for the arts logo\" WIDTH=\"519\" HEIGHT=\"140\"></P>", 
+                "end_date": "2015-05-16 18:00:00", 
+                "tags": "", 
+                "timezone_offset": "GMT-0400", 
+                "text_color": "404040", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-05-16 10:00:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "3.83", 
+                            "id": 33736321, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "3.00", 
+                            "type": 0, 
+                            "start_date": "2015-04-01 10:30:00", 
+                            "include_fee": "false", 
+                            "name": "coLAB Participant"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-02-17 12:02:25", 
+                "url": "http://www.eventbrite.com/e/colab-a-space-to-work-together-tickets-15803308120?aff=SRCH", 
+                "box_text_color": "666666", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Manchester", 
+                    "name": "Ny Space", 
+                    "country": "United Kingdom", 
+                    "region": "", 
+                    "longitude": -2.238446, 
+                    "postal_code": "M1 4DY", 
+                    "address_2": "New York Street", 
+                    "address": "Faulkner House  ", 
+                    "latitude": 53.479726, 
+                    "country_code": "GB", 
+                    "id": 9809051, 
+                    "Lat-Long": "53.479726 / -2.238446"
+                }, 
+                "modified": "2015-04-07 08:02:25", 
+                "start_date": "2015-05-16 11:00:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12420423/135855308524/1/logo.png", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "0a1550", 
+                "locale": "en_GB", 
+                "num_attendee_rows": 23.0, 
+                "box_background_color": "dfe2f2", 
+                "timezone": "Europe/London", 
+                "box_border_color": "bdc2de", 
+                "logo": "http://cdn.evbuc.com/images/12479492/3132982428/1/logo.jpg", 
+                "organizer": {
+                    "url": "http://www.eventbrite.co.uk/o/universal-wealth-preservation-766918109", 
+                    "id": 766918109, 
+                    "description": "Universal Wealth Preservation, Universal Seminars and Universal Trustees come together as part of the Universal Group to provide a complete Estate Planning and Wealth Preservation solution for families across the UK. \r\nThe staff and estate planning consultant team at Universal hold a wide range of relevant legal, accounting, taxation and trust qualifications. \r\nOur team comprises S.T.E.P qualified staff. (www.step.org) company solicitors, chartered senior legal executives, legal administrators and qualified tax consultant. Bringing together a range of specialist tax and estate planning solutions not generally available on the High Street. We have decades of experience in helping clients of all ages. \r\nAs well as offering advice on Wills, Probate and Powers of Attorney, we also provide advanced estate and tax planning solutions to high net worth estates. We advise hundreds of clients on a weekly basis and have set up and managed thousands of legal agreements over the course of many years. \r\nFrom our head office in Ipswich, Suffolk we have consultants based across the country that can offer you a local service. \r\nWe operate our Keep it in the family seminar all over the country all year around to allow you to find out more about on how to protect your assets. We are quietly growing to become a market leader in this field. \r\nOur clients are our best advert, to give you peace of mind and reassurance here are some recent testimonials;\r\nFrom our first meeting with Universal, we were impressed with the knowledgeable, professional and pleasant manner in which we were dealt with and the clear explanation of the benefits of the Trust. The Trust offers so much peace of mind knowing that our assets are protected not only in life but after our deaths and we have no hesitation in recommending the W.P.T to others. P.L. Jones, September 2013\r\nHaving very little knowledge of family trusts my wife and I found your consultants very helpful in answering any queries we had B. Warren, October ", 
+                    "name": "Universal Wealth Preservation", 
+                    "long_description": "Universal Wealth Preservation, Universal Seminars and Universal Trustees come together as part of the Universal Group to provide a complete Estate Planning and Wealth Preservation solution for families across the UK. \r\nThe staff and estate planning consultant team at Universal hold a wide range of relevant legal, accounting, taxation and trust qualifications. \r\nOur team comprises S.T.E.P qualified staff. (www.step.org) company solicitors, chartered senior legal executives, legal administrators and qualified tax consultant. Bringing together a range of specialist tax and estate planning solutions not generally available on the High Street. We have decades of experience in helping clients of all ages. \r\nAs well as offering advice on Wills, Probate and Powers of Attorney, we also provide advanced estate and tax planning solutions to high net worth estates. We advise hundreds of clients on a weekly basis and have set up and managed thousands of legal agreements over the course of many years. \r\nFrom our head office in Ipswich, Suffolk we have consultants based across the country that can offer you a local service. \r\nWe operate our Keep it in the family seminar all over the country all year around to allow you to find out more about on how to protect your assets. We are quietly growing to become a market leader in this field. \r\nOur clients are our best advert, to give you peace of mind and reassurance here are some recent testimonials;\r\nFrom our first meeting with Universal, we were impressed with the knowledgeable, professional and pleasant manner in which we were dealt with and the clear explanation of the benefits of the Trust. The Trust offers so much peace of mind knowing that our assets are protected not only in life but after our deaths and we have no hesitation in recommending the W.P.T to others. P.L. Jones, September 2013\r\nHaving very little knowledge of family trusts my wife and I found your consultants very helpful in answering any queries we had B. Warren, October "
+                }, 
+                "background_color": "0a1550", 
+                "id": 15891590174, 
+                "category": "", 
+                "box_header_background_color": "ced3ed", 
+                "capacity": 0, 
+                "title": "Universal Seminars Telford \u2018Keep it in the Family\u2019 7pm", 
+                "link_color": "031fa8", 
+                "status": "Live", 
+                "description": "<P STYLE=\"margin: 0cm 0cm 8pt;\"><SPAN STYLE=\"font-family: Calibri; font-size: medium;\">Universal Seminars \u2018Keep it in the Family\u2019\u00a0Holiday Inn Telford - Ironbridge -\u00a0Reynolds Suite\u00a0-\u00a07pm</SPAN></P>\r\n<P STYLE=\"margin: 0cm 0cm 8pt;\">\u00a0</P>", 
+                "end_date": "2015-04-29 21:00:00", 
+                "tags": "", 
+                "timezone_offset": "GMT+0100", 
+                "text_color": "ffffff", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-04-29 21:00:00", 
+                            "min": 1, 
+                            "max": 9, 
+                            "price": "0.00", 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "0.00", 
+                            "type": 0, 
+                            "id": 33898146, 
+                            "include_fee": "false", 
+                            "name": "Universal Seminars \u2018Keep it in the Family\u2019 Holiday Inn Telford - Ironbridge - Reynolds Suite - 7pm"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-02-24 05:56:50", 
+                "url": "http://www.eventbrite.com/e/universal-seminars-telford-keep-it-in-the-family-7pm-tickets-15891590174?aff=SRCH", 
+                "box_text_color": "666666", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Telford", 
+                    "name": "Holiday Inn Telford - Ironbridge\t", 
+                    "country": "United Kingdom", 
+                    "region": "", 
+                    "longitude": -2.441525, 
+                    "postal_code": "TF3 4EH ", 
+                    "address_2": "  St. Quentin Gate", 
+                    "address": "Telford International Centre", 
+                    "latitude": 52.672915, 
+                    "country_code": "GB", 
+                    "id": 9863309, 
+                    "Lat-Long": "52.672915 / -2.441525"
+                }, 
+                "modified": "2015-03-09 06:05:54", 
+                "start_date": "2015-04-29 19:00:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12479492/3132982428/1/logo.jpg", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "090a0a", 
+                "locale": "en_US", 
+                "num_attendee_rows": 3.0, 
+                "box_background_color": "ebebeb", 
+                "timezone": "America/New_York", 
+                "box_border_color": "96d2e3", 
+                "logo": "http://cdn.evbuc.com/images/12498311/42008577934/1/logo.jpg", 
+                "organizer": {
+                    "url": "http://visionshealthcare.eventbrite.com", 
+                    "id": 3373021018, 
+                    "description": "Visions HealthCare is a family-owned, integrative medical and wellness organization with facilities located in Dedham and Needham, MA.  Since 2008, Visions has aimed to develop a sustainable care model by providing a complete and unique approach to health.  Partnering with patients, Visions offers a wide variety of services that support each individual in achieving his/her unique goals and optimal vitality.  Rather than simply masking symptoms of illness, Visions holistic functional medicine approach reveals and resolves any fundamental imbalances in the structural, chemical, emotional, energetic, and spiritual aspects of your life. This proprietary 5-systems model of health combined with an integrative team approach to care is what sets Visions apart.\r\n\r\n\r\nFor more information, visit www.visionshealthcare.com.\r\n\r\n", 
+                    "name": "Visions HealthCare", 
+                    "long_description": "Visions HealthCare is a family-owned, integrative medical and wellness organization with facilities located in Dedham and Needham, MA.  Since 2008, Visions has aimed to develop a sustainable care model by providing a complete and unique approach to health.  Partnering with patients, Visions offers a wide variety of services that support each individual in achieving his/her unique goals and optimal vitality.  Rather than simply masking symptoms of illness, Visions holistic functional medicine approach reveals and resolves any fundamental imbalances in the structural, chemical, emotional, energetic, and spiritual aspects of your life. This proprietary 5-systems model of health combined with an integrative team approach to care is what sets Visions apart.\r\n\r\n\r\nFor more information, visit www.visionshealthcare.com.\r\n\r\n"
+                }, 
+                "background_color": "57242f", 
+                "id": 15920389313, 
+                "category": "", 
+                "box_header_background_color": "9cd6e6", 
+                "capacity": 0, 
+                "title": "Mindfulness Based Stress Reduction - Thursday Orientation", 
+                "link_color": "067ab5", 
+                "status": "Live", 
+                "description": "<P STYLE=\"line-height: 1; margin-top: 0pt; margin-bottom: 0pt;\" DIR=\"ltr\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium; line-height: 1.6em; text-align: center;\">Visions HealthCare is proud to offer Mindfulness Based Stress Reduction (MBSR). This course is facilitated by Patricia Howard in the Jon Kabat-Zinn model, which was developed at the University of Massachusetts Medical School.</SPAN><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium; line-height: 1; text-align: center;\">\u00a0</SPAN></P>\r\n<P STYLE=\"line-height: 1; margin-top: 0pt; margin-bottom: 0pt;\" DIR=\"ltr\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium; line-height: 1.6em;\">According to the school: \u201cTwo decades of published research indicates that the majority of people who complete the course report:</SPAN><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium; line-height: 1; text-align: center;\">\u00a0</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Lasting decreases in physical and psychological symptoms</SPAN><BR><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">An increased ability to relax</SPAN><BR><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Reductions in pain levels and an enhanced ability to cope with pain that may not go away</SPAN><BR><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Greater energy and enthusiasm for life</SPAN><BR><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Improved self-esteem</SPAN><BR><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">An ability to cope more effectively with both short and long-term stressful situations.\u201d</SPAN></P>\r\n<P STYLE=\"line-height: 1; margin-top: 0pt; margin-bottom: 0pt;\" DIR=\"ltr\"><SPAN STYLE=\"font-size: 15px; font-family: arial, helvetica, sans-serif; vertical-align: baseline; white-space: pre-wrap;\"><BR></SPAN></P>\r\n<P STYLE=\"line-height: 1; margin-top: 0pt; margin-bottom: 0pt;\" DIR=\"ltr\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><SPAN STYLE=\"font-size: 15px; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;\">Mindfulness Based Stress Reduction</SPAN><SPAN STYLE=\"font-size: 15px; vertical-align: baseline; white-space: pre-wrap;\"> is a program that not only instills peace of mind but also promotes good physical health as recent research suggests. \u00a0</SPAN></SPAN></P>\r\n<P><SPAN ID=\"docs-internal-guid-3e30a731-8070-fa57-75ca-640540f43499\" STYLE=\"font-family: arial, helvetica, sans-serif;\"><SPAN STYLE=\"font-size: 15px; vertical-align: baseline; white-space: pre-wrap;\">Do not let stress and anxiety rob you of living fully in the moment. \u00a0Attend the free orientation to learn more about the health-promoting effects of this program and experience mindfulness for yourself. \u00a0</SPAN></SPAN></P>\r\n<P STYLE=\"line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt; text-align: center;\" DIR=\"ltr\"><SPAN STYLE=\"font-size: large; font-family: arial, helvetica, sans-serif;\"><STRONG><SPAN STYLE=\"vertical-align: baseline; white-space: pre-wrap;\"><SPAN STYLE=\"line-height: 17.25px;\">Join us for this Free Orientation! </SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt; text-align: center;\" DIR=\"ltr\"><SPAN STYLE=\"font-size: large;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; vertical-align: baseline; white-space: pre-wrap;\"><SPAN STYLE=\"line-height: 17.25px;\">Great opportunity to learn about how mindfulness effects your health, try out a meditation, and meet the teacher, Patricia Howard!</SPAN></SPAN><STRONG></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;\" DIR=\"ltr\"><SPAN STYLE=\"font-size: 15px; font-family: Arial; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;\"><BR></SPAN></P>\r\n<P STYLE=\"line-height: 1.15; margin-top: 0pt; margin-bottom: 0pt;\" DIR=\"ltr\"><SPAN STYLE=\"font-size: 15px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;\">Should you choose to continue the full MBSR program includes 8, 2 hour sessions PLUS a retreat day. If you have any questions prior to the retreat, email marketing@visionshealthcare.com. </SPAN></P>\r\n<DIV><SPAN STYLE=\"font-size: 15px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;\"><BR></SPAN></DIV>", 
+                "end_date": "2015-04-23 11:00:00", 
+                "tags": "", 
+                "timezone_offset": "GMT-0400", 
+                "text_color": "fbffcf", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-04-23 08:30:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "0.00", 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "0.00", 
+                            "type": 0, 
+                            "id": 34183039, 
+                            "include_fee": "false", 
+                            "name": "Free Orientation"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-02-25 14:38:46", 
+                "url": "http://www.eventbrite.com/e/mindfulness-based-stress-reduction-thursday-orientation-tickets-15920389313?aff=SRCH", 
+                "box_text_color": "060d0f", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Dedham", 
+                    "name": "Visions HealthCare", 
+                    "country": "United States", 
+                    "region": "MA", 
+                    "longitude": -71.184184, 
+                    "postal_code": "02026", 
+                    "address_2": "", 
+                    "address": "910 Washington Street", 
+                    "latitude": 42.231642, 
+                    "country_code": "US", 
+                    "id": 4798829, 
+                    "Lat-Long": "42.231642 / -71.184184"
+                }, 
+                "modified": "2015-03-12 07:57:08", 
+                "start_date": "2015-04-23 09:30:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12498311/42008577934/1/logo.jpg", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "cccccc", 
+                "locale": "en_GB", 
+                "num_attendee_rows": null, 
+                "box_background_color": "161616", 
+                "timezone": "Europe/London", 
+                "box_border_color": "35203c", 
+                "logo": "http://cdn.evbuc.com/images/12645724/36688665410/1/logo.jpg", 
+                "organizer": {
+                    "url": "http://www.eventbrite.co.uk/o/melvel-training-2728303366", 
+                    "id": 2728303366, 
+                    "description": " About Mel Vella- Founder of Melvel Training\r\n \r\nMel is a dynamic international business and health and well-being trainer who is recognised and commended for her ability to work at all levels with businesses, schools, local authorities, NHS, police authorities and the British Forces. She has extensive knowledge and expertise in the field of drug awareness across all sectors. With experience in business development, she also delivers business courses and seminars, including writing for your business courses, and health and well-being seminars.\r\n \r\nIn detail:\r\n \r\nMel is a qualified teacher, and has more than 10 years of experience planning and delivering drug awareness courses to all sectors, in the UK, and internationally;\r\n \r\nAn Associate member of the CIPD;\r\n \r\nFemale Ambassador for Women in Business, East Midlands;\r\n \r\nMel has designed E-learning courses about Drugs in the Workplace in partnership with Real Sense Solutions;\r\n\r\n\r\nPresents resilience workshops for businesses;\r\n\r\nDelivers writing courses to help people write for their business;\r\n\r\nWrites press releases, LinkedIn Profiles, product descriptions and magazine articles for businesses.\r\n \r\n \r\nDelivered business courses with Vision Development Consultants, at the Prince's Trust;\r\n2010-2011 Mel has planned and delivered drug awareness training for the Nottingham Crime and Drug Partnership;\r\n \r\nTrained Inspector for School Improvement Services, Nottinghamshire County Council, quality assuring schools drug policies and advising on drug policy writing;\r\n \r\nIn 2008 Mel worked in Los Angeles with the Beverly Hills Police, participating in a School Officer Training course;\r\n\r\nShe was a member of the training and development team for the Business in the Community Award winning, life-skills resource, On Track; (2004-2009)\r\n \r\n \r\nWhat Other People Say About Mel\r\n \r\n \r\n 'Mel Vella is not only an expert in her field, but is highly skilled in adapting the training to meet individual needs and challenges of organisations. By ensuring the training can be transferred seamlessly to the workplace. Its always a pleasure to have you training at Vision.'\r\nVision Development Consultants Ltd.\r\n \r\n \u2018I recently attended one of Mel's writing courses. Having attended a variety of courses over the years I found Mel's course very helpful, she helped us work on actual elements of writing for our business that we were struggling with. We had great brain storming and Mel came up with some great solutions too. \r\n\r\nThe course was very informative whilst being great fun which I have to say really engaged with all who attended, highly recommend not only attending Mel's courses but would love to work with her again in some form.\u2019\r\n \u2018\r\n Maggie Lucas, Sales and Marketing Director, Square One Creative Limited, Graphic Design & Marketing .\r\n \r\n \u2018I have worked with Mel on several contracts now delivering preventative health and wellbeing workshops to large employers around the midlands. Mel has always been great to work with and delivers excellent quality work. Her feedback is always brilliant and I can't recommend her highly enough. \u2018\r\nChris Hanbury, MD Impact Health and Wellbeing Ltd.\r\n \r\n\u2019We were most impressed with her knowledge and commitment and I know she has provided an excellent role model for our service policemen and women who will now go into our schools to deliver the DARE programme.'\r\nMajor General DR Bill, British Forces\r\n\r\n \r\n'Mel is a highly professional trainer who is excellent at adapting according to purpose and audience. She has up-to-date subject knowledge and the skills with which to impart this knowledge. She is supportive towards colleagues and is respected by all those with whom she works. I would have no hesitation in recommending Mel, as she is motivated and enthusiastic and excels in her field.'\r\nTiffany Gorski -Healthy Schools coordinator, Garibaldi College\r\n \r\nThe training was well received by those members of the Military Police who attended, essentially due to the ability of Melanie to converse with the NCOs and to ensure that all topics were efficiently and effectively taught. As a result of her professionalism, all those who attended were successful in its completion, which is in no doubt accredited to Melanies professionalism, approach, and personality, for which full appreciation is given.\r\nRobinson RM MBE, SSgt, CRed Co-Ord (Germany)\r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n", 
+                    "name": "Melvel Training", 
+                    "long_description": " About Mel Vella- Founder of Melvel Training\r\n \r\nMel is a dynamic international business and health and well-being trainer who is recognised and commended for her ability to work at all levels with businesses, schools, local authorities, NHS, police authorities and the British Forces. She has extensive knowledge and expertise in the field of drug awareness across all sectors. With experience in business development, she also delivers business courses and seminars, including writing for your business courses, and health and well-being seminars.\r\n \r\nIn detail:\r\n \r\nMel is a qualified teacher, and has more than 10 years of experience planning and delivering drug awareness courses to all sectors, in the UK, and internationally;\r\n \r\nAn Associate member of the CIPD;\r\n \r\nFemale Ambassador for Women in Business, East Midlands;\r\n \r\nMel has designed E-learning courses about Drugs in the Workplace in partnership with Real Sense Solutions;\r\n\r\n\r\nPresents resilience workshops for businesses;\r\n\r\nDelivers writing courses to help people write for their business;\r\n\r\nWrites press releases, LinkedIn Profiles, product descriptions and magazine articles for businesses.\r\n \r\n \r\nDelivered business courses with Vision Development Consultants, at the Prince's Trust;\r\n2010-2011 Mel has planned and delivered drug awareness training for the Nottingham Crime and Drug Partnership;\r\n \r\nTrained Inspector for School Improvement Services, Nottinghamshire County Council, quality assuring schools drug policies and advising on drug policy writing;\r\n \r\nIn 2008 Mel worked in Los Angeles with the Beverly Hills Police, participating in a School Officer Training course;\r\n\r\nShe was a member of the training and development team for the Business in the Community Award winning, life-skills resource, On Track; (2004-2009)\r\n \r\n \r\nWhat Other People Say About Mel\r\n \r\n \r\n 'Mel Vella is not only an expert in her field, but is highly skilled in adapting the training to meet individual needs and challenges of organisations. By ensuring the training can be transferred seamlessly to the workplace. Its always a pleasure to have you training at Vision.'\r\nVision Development Consultants Ltd.\r\n \r\n \u2018I recently attended one of Mel's writing courses. Having attended a variety of courses over the years I found Mel's course very helpful, she helped us work on actual elements of writing for our business that we were struggling with. We had great brain storming and Mel came up with some great solutions too. \r\n\r\nThe course was very informative whilst being great fun which I have to say really engaged with all who attended, highly recommend not only attending Mel's courses but would love to work with her again in some form.\u2019\r\n \u2018\r\n Maggie Lucas, Sales and Marketing Director, Square One Creative Limited, Graphic Design & Marketing .\r\n \r\n \u2018I have worked with Mel on several contracts now delivering preventative health and wellbeing workshops to large employers around the midlands. Mel has always been great to work with and delivers excellent quality work. Her feedback is always brilliant and I can't recommend her highly enough. \u2018\r\nChris Hanbury, MD Impact Health and Wellbeing Ltd.\r\n \r\n\u2019We were most impressed with her knowledge and commitment and I know she has provided an excellent role model for our service policemen and women who will now go into our schools to deliver the DARE programme.'\r\nMajor General DR Bill, British Forces\r\n\r\n \r\n'Mel is a highly professional trainer who is excellent at adapting according to purpose and audience. She has up-to-date subject knowledge and the skills with which to impart this knowledge. She is supportive towards colleagues and is respected by all those with whom she works. I would have no hesitation in recommending Mel, as she is motivated and enthusiastic and excels in her field.'\r\nTiffany Gorski -Healthy Schools coordinator, Garibaldi College\r\n \r\nThe training was well received by those members of the Military Police who attended, essentially due to the ability of Melanie to converse with the NCOs and to ensure that all topics were efficiently and effectively taught. As a result of her professionalism, all those who attended were successful in its completion, which is in no doubt accredited to Melanies professionalism, approach, and personality, for which full appreciation is given.\r\nRobinson RM MBE, SSgt, CRed Co-Ord (Germany)\r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n"
+                }, 
+                "background_color": "000000", 
+                "id": 16147567810, 
+                "category": "", 
+                "box_header_background_color": "35203d", 
+                "capacity": 0, 
+                "title": "Resilience-The Bouncing Back and Moving Forwards Seminar", 
+                "link_color": "00cfeb", 
+                "status": "Live", 
+                "description": "<P STYLE=\"margin: 1em 0px 0pt; text-align: center; line-height: normal; vertical-align: baseline;\" ALIGN=\"center\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"font-size: 14pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 12.0pt; mso-fareast-language: EN-GB;\">Change is inevitable</SPAN></STRONG><STRONG><SPAN STYLE=\"font-size: 14pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-bidi-font-family: 'Times New Roman';\">. Things going wrong are also a part of life. </SPAN></STRONG><STRONG><SPAN STYLE=\"font-size: 14pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 12.0pt; mso-fareast-language: EN-GB;\">How we respond to change and challenging times is important to our physical, mental and emotional health and well-being. Resilience is the key</SPAN></STRONG><STRONG><SPAN STYLE=\"font-size: 14pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-bidi-font-family: 'Times New Roman';\">!</SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin: 1em 0px 0pt; line-height: normal; vertical-align: baseline;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 14pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-bidi-font-family: 'Times New Roman';\">\u00a0</SPAN></P>\r\n<P STYLE=\"margin: 0cm 0cm 10pt; text-align: center;\" ALIGN=\"center\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"line-height: 115%; font-size: 14pt;\">Very often we call upon our resilience without having really considered when and how often we have drawn upon it in the past. We ARE resilient people; living proof of our own resilience! What can we learn from it, and how we can build on it, ready for the next time we need it?</SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin: 0cm 0cm 10pt; text-align: center;\" ALIGN=\"center\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"line-height: 115%; font-size: 12pt;\">Using whole group work, small group and individual work we look at the importance of building our own resilience, and provide strategies to help to strengthen it. You may be just in need of spending time on you, you may be self employed and in need of reminding yourself\u00a0that you aren't alone, or ..... you fill in the gap. This course is for anyone who would like to build their resilience.</SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin: 0cm 0cm 10pt 36pt;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: medium;\">\u00a0</SPAN></P>\r\n<UL STYLE=\"list-style-type: disc; direction: ltr;\">\r\n<LI STYLE=\"color: #000000; font-style: normal; font-weight: normal;\">\r\n<P STYLE=\"color: #000000; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"font-size: 12pt;\">What is resilience?</SPAN></STRONG><SPAN STYLE=\"font-size: 12pt;\"> What does resilience mean to you? It means different things to different people, it is something we all need at some points in our lives, and we are responsible for our own resilience. </SPAN></SPAN></P>\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 12pt;\">\u00a0</SPAN></P>\r\n</LI>\r\n<LI STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 12pt; font-style: normal; font-weight: normal;\">\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt; mso-list: l0 level1 lfo1;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"font-size: 12pt;\">Why is it so important? </SPAN></STRONG><SPAN STYLE=\"font-size: 12pt;\">We explore why resilience is important to us. </SPAN></SPAN></P>\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 12pt;\">\u00a0</SPAN></P>\r\n</LI>\r\n<LI STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 12pt; font-style: normal; font-weight: normal;\">\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt; mso-list: l0 level1 lfo1;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"font-size: 12pt;\">What are the traits of resilience?</SPAN></STRONG><SPAN STYLE=\"font-size: 12pt;\"> Identify the skills and actions used, and the attitude and thinking adopted, at times\u00a0we have been resilient. </SPAN></SPAN></P>\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 12pt;\">\u00a0</SPAN></P>\r\n</LI>\r\n<LI STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 12pt; font-style: normal; font-weight: normal;\">\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt; mso-list: l0 level1 lfo1;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"font-size: 12pt;\">How can we strengthen our resilience? </SPAN></STRONG><SPAN STYLE=\"font-size: 12pt;\">Consider the skills and traits of resilience as identified during the workshop. How we can strengthen our resilience? Resilience is a different process for everyone. You need to consider what will help you to build yours.</SPAN></SPAN></P>\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif; font-size: 12pt;\">\u00a0</SPAN></P>\r\n</LI>\r\n<LI STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 12pt; font-style: normal; font-weight: normal;\">\r\n<P STYLE=\"color: #000000; font-family: 'Calibri','sans-serif'; font-size: 11pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-bottom: 0pt; mso-list: l0 level1 lfo1;\"><SPAN STYLE=\"color: #ffffff; font-family: arial,helvetica,sans-serif;\"><STRONG><SPAN STYLE=\"font-size: 12pt;\">Signposting </SPAN></STRONG><SPAN STYLE=\"font-size: 12pt;\">and additional information. </SPAN></SPAN></P>\r\n</LI>\r\n</UL>\r\n<P STYLE=\"margin: 0cm 0cm 10pt 36pt;\"><SPAN STYLE=\"color: #ffffff; line-height: 115%; font-family: arial,helvetica,sans-serif; font-size: 12pt;\">\u00a0</SPAN></P>\r\n<P STYLE=\"margin: 0cm 0cm 0pt;\"><SPAN STYLE=\"font-family: arial,helvetica,sans-serif;\"><SPAN STYLE=\"color: #ffffff;\"><STRONG><SPAN STYLE=\"font-size: 12pt;\">Other important information:</SPAN></STRONG></SPAN><SPAN STYLE=\"font-size: 12pt;\"><SPAN STYLE=\"color: #ffffff;\"> There will be cuppas, juice, cake and fruit for us all :-)</SPAN> </SPAN></SPAN></P>\r\n<P>\u00a0</P>\r\n<P><STRONG>FAQs</STRONG></P>\r\n<P>\u00a0</P>\r\n<P><STRONG>What are my transport/parking options getting to the event?</STRONG></P>\r\n<P>The workshop will be held in Nottingham. I am waiting to confirm the venue and will put the transport and parking options on here. I will ensure it is easy to get to. I am just negotiating prices with venues!</P>\r\n<P>\u00a0</P>\r\n<P><STRONG>Where can I contact the organiser with any questions?</STRONG></P>\r\n<P>My email is <A HREF=\"mailto:mel@melveltraining.co.uk\" REL=\"nofollow\">mel@melveltraining.co.uk</A></P>\r\n<P>\u00a0</P>\r\n<P><STRONG>Do I have to bring my printed ticket to the event?</STRONG></P>\r\n<P>Yes please</P>\r\n<P>\u00a0</P>\r\n<P><STRONG>What is the refund policy?</STRONG></P>\r\n<P>Tickets cannot be refunded, however you will be notified of future dates to attend, or alternatively you may send someone in your place.</P>\r\n<P>\u00a0</P>\r\n<P><STRONG>The name on the registration/ticket doesn't match the attendee. Is that okay?</STRONG></P>\r\n<P>Please contact me to notify me of any changes beforehand.</P>\r\n<P>\u00a0</P>", 
+                "end_date": "2015-06-05 13:00:00", 
+                "tags": "", 
+                "timezone_offset": "GMT+0100", 
+                "text_color": "8e57a3", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-05-01 23:59:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "25.00", 
+                            "id": 34381651, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "25.00", 
+                            "type": 0, 
+                            "start_date": "2015-03-12 21:00:00", 
+                            "include_fee": "true", 
+                            "name": "Early Bird"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-06-02 23:59:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "39.00", 
+                            "id": 34381652, 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "39.00", 
+                            "type": 0, 
+                            "start_date": "2015-05-02 00:00:00", 
+                            "include_fee": "true", 
+                            "name": "General Ticket"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-03-12 13:58:48", 
+                "url": "http://www.eventbrite.com/e/resilience-the-bouncing-back-and-moving-forwards-seminar-tickets-16147567810?aff=SRCH", 
+                "box_text_color": "f7f7f7", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Nottingham", 
+                    "name": "Nottingham", 
+                    "country": "United Kingdom", 
+                    "region": "England", 
+                    "longitude": -1.158109, 
+                    "postal_code": "", 
+                    "address_2": "", 
+                    "address": "", 
+                    "latitude": 52.954783, 
+                    "country_code": "GB", 
+                    "id": 10014065, 
+                    "Lat-Long": "52.954783 / -1.158109"
+                }, 
+                "modified": "2015-04-07 08:01:39", 
+                "start_date": "2015-06-05 10:00:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12645724/36688665410/1/logo.jpg", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "404040", 
+                "locale": "en_US", 
+                "num_attendee_rows": 6.0, 
+                "box_background_color": "ffffff", 
+                "timezone": "America/Chicago", 
+                "box_border_color": "dedede", 
+                "logo": "http://cdn.evbuc.com/images/12692198/101235672643/1/logo.jpg", 
+                "organizer": {
+                    "url": "http://fun2learncode.eventbrite.com", 
+                    "id": 6580067289, 
+                    "description": "Fun 2 Learn Code offers classes and summers camps for young people to learn the fundamentals of computer programming.  Our approach is to make technology fun and engaging for children, and we strongly believe that as children are learning to code, they are also coding to learn - to solve problems, to express themselves creatively, to work in collaboration with others, and to communicate their ideas.", 
+                    "name": "Fun 2 Learn Code", 
+                    "long_description": "Fun 2 Learn Code offers classes and summers camps for young people to learn the fundamentals of computer programming.  Our approach is to make technology fun and engaging for children, and we strongly believe that as children are learning to code, they are also coding to learn - to solve problems, to express themselves creatively, to work in collaboration with others, and to communicate their ideas."
+                }, 
+                "background_color": "f7f7f7", 
+                "id": 16171415138, 
+                "category": "", 
+                "box_header_background_color": "fafafa", 
+                "capacity": 0, 
+                "title": "Fun 2 Learn Code Summer Camp, July 27-31", 
+                "link_color": "0f90ba", 
+                "status": "Live", 
+                "description": "<P><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Fun 2 Learn Code provides summer camps for young people to learn about technology and the opportunities it can provide. \u00a0Half-day or full-day options are available.</SPAN><SPAN STYLE=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 1.6em;\">\u00a0</SPAN></P>\r\n<DIV><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px;\">\u00a0</SPAN></DIV>\r\n<DIV>\r\n<DIV><SPAN STYLE=\"text-decoration: underline; font-family: verdana, geneva;\"><SPAN STYLE=\"font-size: medium;\">Morning Session: 9 AM - 12 PM</SPAN></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><STRONG><BR></STRONG></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><STRONG>Stop Motion Animation - Ages 7-14</STRONG></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Create your own stop motion animation or short video. No prior programming or movie animation experience is required for this camp. Designed for ages 7 and older.<BR></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px;\">\u00a0</SPAN></DIV>\r\n<DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><BR></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><SPAN STYLE=\"font-family: verdana, geneva; font-size: medium; text-decoration: underline;\">Afternoon Session: 1 PM - 4 PM</SPAN></SPAN></DIV>\r\n</DIV>\r\n</DIV>\r\n<DIV><SPAN STYLE=\"font-family: verdana, geneva;\"><STRONG><SPAN STYLE=\"font-size: medium;\"><BR></SPAN></STRONG></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-family: verdana, geneva;\"><STRONG><SPAN STYLE=\"font-size: medium;\">Scratch Programming - Ages 7-14</SPAN></STRONG></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Create stories, animations and games while learning the concepts of computer programming with the visual programming language Scratch. No previous programming experience is required. Designed for ages 7 and older.</SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-family: verdana, geneva; font-size: medium;\">Software used: Scratch</SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><SPAN STYLE=\"text-decoration: underline;\"><BR></SPAN></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><SPAN STYLE=\"text-decoration: underline;\">Full-Day Session: 9 AM - 4 PM</SPAN></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-family: verdana, geneva;\"><STRONG><SPAN STYLE=\"font-size: medium;\"><BR></SPAN></STRONG></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-family: verdana, geneva;\"><STRONG><SPAN STYLE=\"font-size: medium;\">Python Programming - Ages 10-14</SPAN></STRONG></SPAN></DIV>\r\n<P><SPAN STYLE=\"font-family: verdana, geneva; font-size: medium;\">Get an introduction to the Python programming language and learn the structure of a hand-coded programming language. Pre-requisite: Scratch programming. Designed for ages 10 and older.<BR> Software used: Python</SPAN></P>\r\n<P>\u00a0</P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Those signing up for full-day camp should bring their own lunch</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Early drop-off (8-9 AM) is available for $30/week</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Late pick-up (4-5 PM) is available for $30/week (or $50/week for both early drop-off and late pick-up)</SPAN></LI>\r\n</UL>\r\n<P><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\"><BR></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: medium; font-family: verdana, geneva;\">Our camps balance computer time with unplugged and group activities that focus on problem-solving, socialization, creativity and collaboration.\u00a0 Our approach is to make technology fun and engaging for children, and to get them interested in learning more about computer programming.</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: verdana, geneva;\"><IMG STYLE=\"border-style: solid; border-color: #e4dfe8; clear: both; display: block; margin-left: auto; margin-right: auto; background-color: #ffffff; box-shadow: rgba(228, 223, 232, 0.496094) 1px 1px 0px; max-width: 98%; height: auto; border-width: 1px; padding: 6px;\" SRC=\"http://fun2learncode.com/wp-content/uploads/2014/05/DSC_5710-web.jpg\" ALT=\"working on a Scratch project\" WIDTH=\"288\" HEIGHT=\"193\"> </SPAN></P>\r\n<P><SPAN STYLE=\"font-family: verdana, geneva;\"><SPAN STYLE=\"font-size: medium;\">Each week, we will have different projects and themes, so students who sign up for multiple weeks will be learning something new each week.\u00a0 Your child will be able to take his/her completed projects home at the conclusion of each week\u2019s camp (excluding equipment and robotics).\u00a0 Every student will be provided a laptop to use while at camp.</SPAN></SPAN></P>\r\n<P>\u00a0<SPAN STYLE=\"line-height: 1.6em;\">\u00a0</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: 'arial black', 'avant garde'; font-size: medium; color: #0000ff;\">FAQs</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: 'arial black', 'avant garde'; font-size: medium;\"><BR></SPAN></P>\r\n<P><STRONG><SPAN STYLE=\"color: #888888;\">\u00a0What is the refund policy?</SPAN></STRONG><BR><BR>You can cancel at any time and receive a 100% refund up to two (2) weeks before your registered camp's start date. If you need to cancel within the two week period before the camp's start date, there is a $50 cancellation fee.<BR><BR></P>", 
+                "end_date": "2015-07-31 16:00:00", 
+                "tags": "", 
+                "timezone_offset": "GMT-0500", 
+                "text_color": "404040", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "$50 deposit required at registration. Balance of $175 due by May 15 (see below for discounts for multiple camps). Designed for ages 10 and older. Get an introduction to the Python programming language and learn the structure of a hand-coded programming language. Prerequisite: Scratch programming. ", 
+                            "end_date": "2015-04-04 00:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "50.00", 
+                            "id": 34427850, 
+                            "currency": "USD", 
+                            "visible": "false", 
+                            "display_price": "50.00", 
+                            "type": 0, 
+                            "start_date": "2015-03-14 16:40:00", 
+                            "include_fee": "true", 
+                            "name": "Python, 9 am - 12 pm - Deposit Only"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "$50 deposit required at registration. Balance of $175 due by May 15 (see below for discounts for multiple camps).  Designed for ages 7 and older. Create your own stop motion animation or short video.  No prior programming or movie animation experience is required for this camp.", 
+                            "end_date": "2015-04-03 00:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "50.00", 
+                            "id": 34427851, 
+                            "currency": "USD", 
+                            "visible": "false", 
+                            "display_price": "50.00", 
+                            "type": 0, 
+                            "start_date": "2015-03-14 16:40:00", 
+                            "include_fee": "true", 
+                            "name": "Stop Motion Animation, 9 am - 12 pm - Deposit Only"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "$50 deposit required at registration. Balance of $175 due by May 15 (see below for discounts for multiple camps). Designed for ages 7 and older. Create stories, animations and games while learning  the concepts of computer programming with the visual programming language Scratch. No previous programming experience is required. ", 
+                            "end_date": "2015-04-04 00:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "50.00", 
+                            "id": 34427852, 
+                            "currency": "USD", 
+                            "visible": "false", 
+                            "display_price": "50.00", 
+                            "type": 0, 
+                            "start_date": "2015-03-14 16:40:00", 
+                            "include_fee": "true", 
+                            "name": "Scratch Programming, 1 pm - 4 pm - Deposit Only"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Designed for ages 7 and older. Create your own stop motion animation or short video.  No prior programming or movie animation experience is required for this camp.", 
+                            "end_date": "2015-05-01 00:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "180.00", 
+                            "id": 34992291, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "180.00", 
+                            "type": 0, 
+                            "start_date": "2015-04-03 00:00:00", 
+                            "include_fee": "true", 
+                            "name": "Stop Motion Animation, 9 am - 12 pm - Early Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Designed for ages 7 and older. Create your own stop motion animation or short video.  No prior programming or movie animation experience is required for this camp.", 
+                            "visible": "false", 
+                            "max": 4, 
+                            "price": "200.00", 
+                            "min": 1, 
+                            "currency": "USD", 
+                            "display_price": "200.00", 
+                            "type": 0, 
+                            "id": 34992292, 
+                            "include_fee": "true", 
+                            "name": "Stop Motion Animation, 9 am - 12 pm - Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Designed for ages 7 and older. Create stories, animations and games while learning  the concepts of computer programming with the visual programming language Scratch. No previous programming experience is required. ", 
+                            "end_date": "2015-05-01 00:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "180.00", 
+                            "id": 34992293, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "180.00", 
+                            "type": 0, 
+                            "start_date": "2015-04-04 00:00:00", 
+                            "include_fee": "true", 
+                            "name": "Scratch Programming, 1 pm - 4 pm - Early Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Designed for ages 7 and older. Create stories, animations and games while learning  the concepts of computer programming with the visual programming language Scratch. No previous programming experience is required. ", 
+                            "visible": "false", 
+                            "max": 4, 
+                            "price": "200.00", 
+                            "min": 1, 
+                            "currency": "USD", 
+                            "display_price": "200.00", 
+                            "type": 0, 
+                            "id": 34992294, 
+                            "include_fee": "true", 
+                            "name": "Scratch Programming, 1 pm - 4 pm - Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Full-day camp (9 am - 4 pm) with a morning session in Stop Motion Animation (9 am - 12 pm) and an afternoon session in Scratch Programming (1-4 pm). Designed for ages 7 and older. No prior programming experience is required.", 
+                            "end_date": "2015-05-01 08:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "300.00", 
+                            "id": 34992359, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "300.00", 
+                            "type": 0, 
+                            "start_date": "2015-04-03 00:00:00", 
+                            "include_fee": "true", 
+                            "name": "Full-day - Stop Motion Animation and Scratch Programming - Early Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Full-day camp (9 am - 4 pm) with a morning session in Stop Motion Animation (9 am - 12 pm) and an afternoon session in Scratch Programming (1-4 pm). Designed for ages 7 and older. No prior programming experience is required.", 
+                            "visible": "false", 
+                            "max": 10, 
+                            "price": "325.00", 
+                            "min": 1, 
+                            "currency": "USD", 
+                            "display_price": "325.00", 
+                            "type": 0, 
+                            "id": 34992360, 
+                            "include_fee": "true", 
+                            "name": "Full-day - Stop Motion Animation and Scratch Programming - Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Designed for ages 10 and older. Get an introduction to the Python programming language and learn the structure of a hand-coded programming language. Prerequisite: Scratch programming. ", 
+                            "end_date": "2015-05-01 00:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "350.00", 
+                            "id": 34992295, 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "350.00", 
+                            "type": 0, 
+                            "start_date": "2015-04-04 00:00:00", 
+                            "include_fee": "true", 
+                            "name": "Full-day - Python, 9 am - 4 pm - Early Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Designed for ages 10 and older. Get an introduction to the Python programming language and learn the structure of a hand-coded programming language. Prerequisite: Scratch programming. ", 
+                            "visible": "false", 
+                            "max": 10, 
+                            "price": "375.00", 
+                            "min": 1, 
+                            "currency": "USD", 
+                            "display_price": "375.00", 
+                            "type": 0, 
+                            "id": 34992366, 
+                            "include_fee": "true", 
+                            "name": "Full-day - Python, 9 am - 4 pm - Registration"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-07-27 08:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "30.00", 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "30.00", 
+                            "type": 0, 
+                            "id": 35020000, 
+                            "include_fee": "true", 
+                            "name": "Early drop-off: (8:00-9:00 a.m.)"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-07-27 08:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "30.00", 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "30.00", 
+                            "type": 0, 
+                            "id": 35020001, 
+                            "include_fee": "true", 
+                            "name": "Late pick-up: (4:00-5:00 p.m.)"
+                        }
+                    }, 
+                    {
+                        "ticket": {
+                            "description": "Early drop-off (8:00-9:00 a.m.) and late pick-up (4:00-5:00 p.m.)", 
+                            "end_date": "2015-07-27 08:00:00", 
+                            "min": 1, 
+                            "max": 4, 
+                            "price": "50.00", 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "50.00", 
+                            "type": 0, 
+                            "id": 35020002, 
+                            "include_fee": "true", 
+                            "name": "Early drop-off and late pick-up"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-03-14 21:30:48", 
+                "url": "http://www.eventbrite.com/e/fun-2-learn-code-summer-camp-july-27-31-tickets-16171415138?aff=SRCH", 
+                "box_text_color": "666666", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Round Rock", 
+                    "name": "Fun 2 Learn Code", 
+                    "country": "United States", 
+                    "region": "TX", 
+                    "longitude": -97.680524, 
+                    "postal_code": "78681", 
+                    "address_2": "Suite 120", 
+                    "address": "301 Hester's Crossing", 
+                    "latitude": 30.48697, 
+                    "country_code": "US", 
+                    "id": 10027748, 
+                    "Lat-Long": "30.48697 / -97.680524"
+                }, 
+                "modified": "2015-04-07 08:04:21", 
+                "start_date": "2015-07-27 09:00:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12692198/101235672643/1/logo.jpg", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "0a1550", 
+                "locale": "en_US", 
+                "num_attendee_rows": null, 
+                "box_background_color": "dfe2f2", 
+                "timezone": "Europe/London", 
+                "box_border_color": "bdc2de", 
+                "logo": "http://cdn.evbuc.com/images/12707585/17606558183/1/logo.png", 
+                "organizer": {
+                    "url": "http://www.eventbrite.com/o/maybridge-community-church-7820930955", 
+                    "id": 7820930955, 
+                    "description": "", 
+                    "name": "Maybridge Community Church", 
+                    "long_description": ""
+                }, 
+                "background_color": "0a1550", 
+                "id": 16219280304, 
+                "category": "", 
+                "box_header_background_color": "ced3ed", 
+                "capacity": 0, 
+                "title": "Comedy Night", 
+                "link_color": "031fa8", 
+                "status": "Live", 
+                "description": "<P>A night of laughs with two of the UK's finest stand-up comedians - Tony Vino and 'Miranda' and 'Not Going Out' co-writer, Paul Kerensa.</P>", 
+                "end_date": "2015-06-18 21:30:00", 
+                "tags": "", 
+                "timezone_offset": "GMT+0100", 
+                "text_color": "ffffff", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-06-18 18:30:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "10.00", 
+                            "currency": "GBP", 
+                            "visible": "true", 
+                            "display_price": "10.00", 
+                            "type": 0, 
+                            "id": 34533004, 
+                            "include_fee": "true", 
+                            "name": "Ticket"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-03-18 08:14:21", 
+                "url": "http://www.eventbrite.com/e/comedy-night-tickets-16219280304?aff=SRCH", 
+                "box_text_color": "666666", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "Worthing", 
+                    "name": "Worthing", 
+                    "country": "United Kingdom", 
+                    "region": "England", 
+                    "longitude": -0.418706, 
+                    "postal_code": "BN12 6DR", 
+                    "address_2": "", 
+                    "address": "77 The Strand", 
+                    "latitude": 50.818861, 
+                    "country_code": "GB", 
+                    "id": 9362173, 
+                    "Lat-Long": "50.818861 / -0.418706"
+                }, 
+                "modified": "2015-03-19 09:43:18", 
+                "start_date": "2015-06-18 19:30:00", 
+                "logo_ssl": "https://cdn.evbuc.com/images/12707585/17606558183/1/logo.png", 
+                "repeats": "no"
+            }
+        }, 
+        {
+            "event": {
+                "box_header_text_color": "404040", 
+                "locale": "en_US", 
+                "num_attendee_rows": 12.0, 
+                "box_background_color": "ffffff", 
+                "box_border_color": "dedede", 
+                "timezone": "America/New_York", 
+                "organizer": {
+                    "url": "http://www.eventbrite.com/o/joni-baldwin-commonhealth-representative-for-dss-8033209576", 
+                    "id": 8033209576, 
+                    "description": "Rose O'Toole and  Gina from New Day New Way", 
+                    "name": "Joni Baldwin, CommonHealth Representative for DSS", 
+                    "long_description": ""
+                }, 
+                "background_color": "f7f7f7", 
+                "id": 16255431433, 
+                "category": "", 
+                "box_header_background_color": "fafafa", 
+                "capacity": 0, 
+                "title": "SESSION 2: Keeping Stress in Check: How to Manage Stress", 
+                "link_color": "0f90ba", 
+                "status": "Live", 
+                "description": "<P>DSS Home office employees</P>", 
+                "end_date": "2015-04-23 12:45:00", 
+                "tags": "", 
+                "timezone_offset": "GMT-0400", 
+                "text_color": "404040", 
+                "title_text_color": "", 
+                "tickets": [
+                    {
+                        "ticket": {
+                            "description": "", 
+                            "end_date": "2015-04-23 11:15:00", 
+                            "min": 1, 
+                            "max": null, 
+                            "price": "0.00", 
+                            "currency": "USD", 
+                            "visible": "true", 
+                            "display_price": "0.00", 
+                            "type": 0, 
+                            "id": 34601082, 
+                            "include_fee": "false", 
+                            "name": "Session 2- Stress management"
+                        }
+                    }
+                ], 
+                "distance": "0.00M", 
+                "created": "2015-03-20 12:18:40", 
+                "url": "http://www.eventbrite.com/e/session-2-keeping-stress-in-check-how-to-manage-stress-tickets-16255431433?aff=SRCH", 
+                "box_text_color": "666666", 
+                "privacy": "Public", 
+                "venue": {
+                    "city": "", 
+                    "name": "", 
+                    "country": "", 
+                    "region": "", 
+                    "longitude": 0.0, 
+                    "postal_code": "", 
+                    "address_2": "", 
+                    "address": "2nd floor conference room- Whytestone Building", 
+                    "latitude": 0.0, 
+                    "country_code": "", 
+                    "id": 9754172, 
+                    "Lat-Long": "0.0 / 0.0"
+                }, 
+                "modified": "2015-03-20 12:18:42", 
+                "start_date": "2015-04-23 12:15:00", 
+                "repeats": "no"
+            }
+        }
+    ]
+}

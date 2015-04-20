@@ -4,19 +4,19 @@ x-xss-protection: 1; mode=block
 content-location: https://www.eventbriteapi.com/v3/categories/?token=BKKRDKVUVRC5WG4HAVLT
 x-content-type-options: nosniff
 set-cookie: mgrefby=; Domain=.eventbriteapi.com;
- expires=Mon, 18-Apr-2016 23:53:45 GMT; httponly; Max-Age=31536000;
+ expires=Mon, 18-Apr-2016 23:56:15 GMT; httponly; Max-Age=31536000;
  Path=/,
- G=v%3D1%26i%3Db423b4b1-e99c-4cf4-9501-ac8b05070744%26a%3D5a9%26s%3DAPDvTK5fKHw1tXEYbCO8NB_Cy0KrzMd0yg;
- Domain=.eventbriteapi.com; expires=Mon, 18-Apr-2016 23:53:45 GMT; httponly;
+ G=v%3D1%26i%3Df360aa99-e1d3-4392-950a-a827d440e209%26a%3D5a9%26s%3DAPDvTK4kEeYPYHM2AX-IrkMOINltAQ4egA;
+ Domain=.eventbriteapi.com; expires=Mon, 18-Apr-2016 23:56:15 GMT; httponly;
  Path=/, ebEventToTrack=; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0;
- Path=/, SS=AE3DLHTOVo_ZEXALjxA40wI8OR3s2c-omw; Domain=.eventbriteapi.com;
+ Path=/, SS=AE3DLHQPSXqV9-_3JuhnRgBFhj1YHzmTbQ; Domain=.eventbriteapi.com;
  httponly; Path=/; secure, eblang=lo%3Den_US%26la%3Den-us;
- Domain=.eventbriteapi.com; expires=Mon, 18-Apr-2016 23:53:45 GMT; httponly;
+ Domain=.eventbriteapi.com; expires=Mon, 18-Apr-2016 23:56:15 GMT; httponly;
  Path=/, AN=; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0;
  Path=/, mgref=typeins; Domain=.eventbriteapi.com;
- expires=Mon, 18-Apr-2016 23:53:45 GMT; httponly; Max-Age=31536000;
+ expires=Mon, 18-Apr-2016 23:56:15 GMT; httponly; Max-Age=31536000;
  Path=/,
- SP=AGQgbbmez3X6aWjULVeFuEgTriP2N1r6rpKnHZUTXLbYCJox2Kw2BzA58mnj63S1uFxN4-7ql1K0SNhBmkcSMgw0BgwPYLkxPvqeUzJ2Yo6Iaxw92UG7FJe_dlVoxTsd8lKYtVAtDSr-ouL2O3gw98LQm45GNBVaRT6E6rNlGVOfJ7R-o9619pWH7JoF8ugDQQVfCym_ACGGOsdsG9M_GVm_-S9DS3Wy3W3xAjjD2XMbSwDwVlUXARs;
+ SP=AGQgbbl3aP8tVrisg5cFnxBlAQREq2X5ia7XGSEr3Nv7A585BTcvZuoqWZnycq5ls2V7lw7oZ74QbDQqcAxLLem9QHub5nFVeBcELWcklaBoWDBd5Bf9OCvDPGI312DbuF9k8WvgS6e6UYmkGF4k2ZOmERbygVGBm41GVhNZr8TkBYkif_TjpUSRr2kFgybolSuH4VvGlFJjn8OVI1u5ccixdGWqXhNcGw4yQ6EUjJiM-Btwrgv1a_Y;
  Domain=.eventbriteapi.com; httponly; Path=/
 vary: Accept, Accept-Encoding
 server: nginx
@@ -25,7 +25,7 @@ connection: keep-alive
 -content-encoding: gzip
 x-ua-compatible: IE=edge
 allow: GET, HEAD, OPTIONS
-date: Sun, 19 Apr 2015 23:53:45 GMT
+date: Sun, 19 Apr 2015 23:56:15 GMT
 p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
 access-control-allow-headers: Authorization
 content-type: application/json

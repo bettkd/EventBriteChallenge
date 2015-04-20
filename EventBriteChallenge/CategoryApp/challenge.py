@@ -3,57 +3,62 @@ import httplib2
 import pprint
 import json
 import re
-class Challenge():
 
-	def category():
-		'''--------------'''
-		api_root = 'https://www.eventbriteapi.com'
-		version = 'v3'
-		token = 'BKKRDKVUVRC5WG4HAVLT'
-		url = '%s/%s/categories/?token=%s'%(api_root, version, token)
-		use_ID = 89307119205
-		app_key = 'EALW47FKIXFBTPNHEM'
-		content_type = 'json'
+def category():
+	'''--------------'''
+	api_root = 'https://www.eventbriteapi.com'
+	version = 'v3'
+	token = 'BKKRDKVUVRC5WG4HAVLT'
+	url = '%s/%s/categories/?token=%s'%(api_root, version, token)
+	use_ID = 89307119205
+	app_key = 'EALW47FKIXFBTPNHEM'
+	content_type = 'json'
 
-		h = httplib2.Http(".cache")
-		resp, content = h.request(url, "GET")
+	h = httplib2.Http(".cache")
+	resp, content = h.request(url, "GET")
 
-		cont = json.loads(content)
+	cont = json.loads(content)
 
-		cat = cont['categories']
+	cat = cont['categories']
 
-		categs = ['Music', 'Fashion & Beauty', 'Science & Technology']
+	categs = ['Music', 'Fashion & Beauty', 'Science & Technology']
 
 
-		for categ in categs:
-			for ct in cat:
-				if ct['name'] == categ:
-					#pprint.pprint(ct)
-					pass
-		'''------------'''
+	for categ in categs:
+		for ct in cat:
+			if ct['name'] == categ:
+				#pprint.pprint(ct)
+				pass
+	'''------------'''
+	print cat
 
-		api_root = 'https://www.eventbrite.com'
-		url = '%s/%s/event_search?category=%s&app_key=%s'%(api_root, content_type, "Music", app_key)
+def event(categ='Music'):
 
-		resp, content = h.request(url, "GET")
-		cont = json.loads(content)
+	api_root = 'https://www.eventbrite.com'
+	url = '%s/%s/event_search?category=%s&app_key=%s'%(api_root, content_type, "Music", app_key)
 
-		#pprint.pprint(cont['events'][0]['summary'])
+	resp, content = h.request(url, "GET")
+	cont = json.loads(content)
 
-		event = {}
-		for i in range(1,3):
-			event['title']  = cont['events'][i]['event']['title']
-			event['description'] = cont['events'][i]['event']['description']
-			print "++++++++++++++++++++"
-			pprint.pprint('title: '+cont['events'][i]['event']['title'])
-			pprint.pprint('description: '+cont['events'][i]['event']['description'])
-			pprint.pprint('start_date: '+cont['events'][i]['event']['start_date'])
-			pprint.pprint('end_date: '+cont['events'][i]['event']['end_date'])
-			pprint.pprint(cont['events'][i]['event']['title'])
-			pprint.pprint(cont['events'][i]['event']['venue'])
-			print "=============="
-		#	pprint.pprint(c['events'])
+	#pprint.pprint(cont['events'][0]['summary'])
 
-		return event
+	event = {}
+	for i in range(1,3):
+		event['title']  = cont['events'][i]['event']['title']
+		event['description'] = cont['events'][i]['event']['description']
+		#print "++++++++++++++++++++"
+		#pprint.pprint('title: '+cont['events'][i]['event']['title'])
+		#pprint.pprint('description: '+cont['events'][i]['event']['description'])
+		#pprint.pprint('start_date: '+cont['events'][i]['event']['start_date'])
+		#pprint.pprint('end_date: '+cont['events'][i]['event']['end_date'])
+		#pprint.pprint(cont['events'][i]['event']['title'])
+		#pprint.pprint(cont['events'][i]['event']['venue'])
+		#print "=============="
+	#	pprint.pprint(c['events'])
+	print cont
+	print "hrllp"
+	with open('contentMusic.txt', 'w') as f:
+		json.dump(cont, f, indent=4)
+	return event
 
-	event = category()
+category()
