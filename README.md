@@ -1,13 +1,13 @@
 # EventBriteChallenge
-### Create an app that will show event results based on 3 selected categories.
+#### Create an app that will show event results based on 3 selected categories.
 
-# USAGE:
+## USAGE:
 
-## Activate Virtual Environment
-> $ source venv/bin/activate
+### Activate Virtual Environment
+> * $ source venv/bin/activate
 
-## Run Application
-> $ python manage.py syncdb
-$ python manage.py runserver
+### Run Application
+> * $ python manage.py syncdb
+* $ python manage.py runserver
 
-## Navigate to http://127.0.0.1:8000/CategoryApp/
+### Navigate to http://127.0.0.1:8000/CategoryApp/
