@@ -6,6 +6,10 @@
 ### Activate Virtual Environment
 > * $ source venv/bin/activate
 
+
+### Navigate to the project directory
+> * $ cd EventBriteChallenge
+
 ### Run Application
 > * $ python manage.py syncdb
 * $ python manage.py runserver
