@@ -8,6 +8,6 @@
 
 ## Run Application
 > $ python manage.py syncdb
-> $ python manage.py runserver
+$ python manage.py runserver
 
 ## Navigate to http://127.0.0.1:8000/CategoryApp/
