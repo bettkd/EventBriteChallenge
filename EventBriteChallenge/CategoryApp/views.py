@@ -16,19 +16,18 @@ h = httplib2.Http(".cache")
 token = 'BKKRDKVUVRC5WG4HAVLT'
 version = 'v3'
 categ = 'Music'
-descriptions = []
 
 def index(request):
-	titles, capacities, privacies, logos, venues  = the_event()
+	titles, capacities, privacies, logos, venues, urls  = the_event()
 	count = [i for i in range(0,len(titles))]
 	template = loader.get_template('index.html')
-	context = RequestContext(request, {'event_list': [{'titles':titles, 'capacities':capacities, 'privacies':privacies, 'logos':logos, 'venues':venues, 'count':count}]})
-	return HttpResponse(template.render(context))
-
-def description(request):
-	template = loader.get_template('description.html')
-	context = RequestContext(request, {'descriptions':descriptions})
-	print descriptions[0]
+	context = RequestContext(request, {'event_list': [{'titles':titles, 
+														'capacities':capacities, 
+														'privacies':privacies, 
+														'logos':logos, 
+														'venues':venues, 
+														'urls':urls,
+														'count':count}]})
 	return HttpResponse(template.render(context))
 
 def category():
@@ -68,10 +67,10 @@ def the_event():
 	privacies = []
 	logos = []
 	venues = []
-	for i in range(1,11):
+	urls = []
+	for i in range(1,10):
 		title  = cont['events'][i]['event']['title']
 		capacity = cont['events'][i]['event']['capacity']
-		description = cont['events'][i]['event']['description']
 		privacy = cont['events'][i]['event']['privacy']
 		logo = cont['events'][i]['event'].get('logo')
 		address1 = cont['events'][i]['event']['venue']['address']
@@ -79,14 +78,15 @@ def the_event():
 		region = cont['events'][i]['event']['venue']['region']
 		country = cont['events'][i]['event']['venue']['country']
 		venue = ', '.join([address1, city, region, country])
+		url_ = cont['events'][i]['event']['url']
 
 		titles.append(title)
 		capacities.append(capacity)
 		privacies.append(privacy)
 		logos.append(logo)
 		venues.append(venue)
-		descriptions.append(description)
+		urls.append(url_)
 	#	pprint.pprint(c['events'])
 
-	return titles, capacities, privacies, logos, venues
+	return titles, capacities, privacies, logos, venues, urls
 
