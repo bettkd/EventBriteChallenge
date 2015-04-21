@@ -3,6 +3,9 @@
 
 ## USAGE:
 
+### Clone the project
+> * $ git clone https://github.com/bettkd/EventBriteChallenge.git
+
 ### Activate Virtual Environment
 > * $ source venv/bin/activate
 
