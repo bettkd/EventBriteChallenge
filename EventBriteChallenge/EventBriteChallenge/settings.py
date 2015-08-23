@@ -25,7 +25,7 @@ SECRET_KEY = 'n6i6lfw+*^@1jxwpcpmwp5##q3s%qjao0&mn!_#eucp))s&u%('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -107,3 +107,4 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
     '/Users/Desktop/EventBriteChallenge/EventBriteChallenge/static',
 )
+
