@@ -1,7 +1,7 @@
 Django==1.11.28
 django-multiforloop==0.2.1
 eventbrite==3.0.4
-gunicorn==19.3.0
+gunicorn==19.5.0
 httplib2==0.9.1
 mysql==0.0.1
 requests==2.20.0
